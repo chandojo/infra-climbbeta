@@ -9,3 +9,8 @@ variable "heroku_account_email" {
 variable "heroku_api_key" {
   type = string
 }
+
+variable "CLIMB_BETA_SECRET_KEY" {
+  type = string
+}
+ 
